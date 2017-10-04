@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "入门教程"
+date:   2017-10-03 19:23:08 -0400
+categories: 
+---
+
+> 好的开始是成功的一半。
+
+这是我制作这个简易版个人主页参考的教程：[Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages){:target="_blank"}。下面附上一些文章内的导航链接。
+
+------
+
+<br>
+
+- [Installing dependencies](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages#installing-dependencies-){:target="_blank"}
+
+- [Setting up Jekyll](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages#setting-up-jekyll-){:target="_blank"}
+
+  `jekyll new `
+
+- [Running a website locally](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages#running-a-website-locally-){:target="_blank"}
+
+  `bundle exec jekyll serve --watch` 
+
+- [Tweaking the settings](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages#tweaking-the-settings-){:target="_blank"}
+
+
+- [Writing pages and posts](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages#writing-pages-and-posts-){:target="_blank"}
+
+
+- [Hosting on GitHub Pages](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages#hosting-on-github-pages-){:target="_blank"}
+
+  Add a new branch named `gh-pages`
