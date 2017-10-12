@@ -1,0 +1,75 @@
+picture_path: Floral-Calendar
+pictures:
+- filename: Floral-01
+  original: Floral-01-2550x3300.jpg
+  sizes:
+  - Floral-01-1275x1650.jpg
+  - Floral-01-2040x2640.jpg
+  thumbnail: Floral-01-1275x1650.jpg
+- filename: Floral-02
+  original: Floral-02-2550x3300.jpg
+  sizes:
+  - Floral-02-1275x1650.jpg
+  - Floral-02-2040x2640.jpg
+  thumbnail: Floral-02-1275x1650.jpg
+- filename: Floral-03
+  original: Floral-03-2550x3300.jpg
+  sizes:
+  - Floral-03-1275x1650.jpg
+  - Floral-03-2040x2640.jpg
+  thumbnail: Floral-03-1275x1650.jpg
+- filename: Floral-04
+  original: Floral-04-2550x3300.jpg
+  sizes:
+  - Floral-04-1275x1650.jpg
+  - Floral-04-2040x2640.jpg
+  thumbnail: Floral-04-1275x1650.jpg
+- filename: Floral-05
+  original: Floral-05-2550x3300.jpg
+  sizes:
+  - Floral-05-1275x1650.jpg
+  - Floral-05-2040x2640.jpg
+  thumbnail: Floral-05-1275x1650.jpg
+- filename: Floral-06
+  original: Floral-06-2550x3300.jpg
+  sizes:
+  - Floral-06-1275x1650.jpg
+  - Floral-06-2040x2640.jpg
+  thumbnail: Floral-06-1275x1650.jpg
+- filename: Floral-07
+  original: Floral-07-2550x3300.jpg
+  sizes:
+  - Floral-07-1275x1650.jpg
+  - Floral-07-2040x2640.jpg
+  thumbnail: Floral-07-1275x1650.jpg
+- filename: Floral-08
+  original: Floral-08-2550x3300.jpg
+  sizes:
+  - Floral-08-1275x1650.jpg
+  - Floral-08-2040x2640.jpg
+  thumbnail: Floral-08-1275x1650.jpg
+- filename: Floral-09
+  original: Floral-09-2550x3300.jpg
+  sizes:
+  - Floral-09-1275x1650.jpg
+  - Floral-09-2040x2640.jpg
+  thumbnail: Floral-09-1275x1650.jpg
+- filename: Floral-10
+  original: Floral-10-2550x3300.jpg
+  sizes:
+  - Floral-10-1275x1650.jpg
+  - Floral-10-2040x2640.jpg
+  thumbnail: Floral-10-1275x1650.jpg
+- filename: Floral-11
+  original: Floral-11-2550x3300.jpg
+  sizes:
+  - Floral-11-1275x1650.jpg
+  - Floral-11-2040x2640.jpg
+  thumbnail: Floral-11-1275x1650.jpg
+- filename: Floral-12
+  original: Floral-12-2550x3300.jpg
+  sizes:
+  - Floral-12-1275x1650.jpg
+  - Floral-12-2040x2640.jpg
+  thumbnail: Floral-12-1275x1650.jpg
+

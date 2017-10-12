@@ -1,0 +1,19 @@
+-
+ title: 日历素材 1
+ directory: Princess-Calendar
+ preview:
+  filename: Princess-01
+  original: Princess-01-2400x3000.jpg
+  sizes:
+  - Princess-01-1680x2100.jpg
+  thumbnail: Princess-01-thumbnail.jpg
+-
+ title: 日历素材 2
+ directory: Floral-Calendar
+ preview:
+  filename: Floral-01
+  original: Floral-01-2550x3300.jpg
+  sizes:
+  - Floral-01-1275x1650.jpg
+  - Floral-01-2040x2640.jpg
+  thumbnail: Floral-01-1275x1650.jpg

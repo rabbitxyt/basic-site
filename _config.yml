@@ -1,14 +1,20 @@
 title: A starting point
-email: rabbitxyt@gmail.com
+email: #
 description: >-
-  This is my first self-built site using Github Pages and Jekyll. Check out the post if you are interested in building one yourself.
+  My first self-built website and testing ground.
 baseurl: "/basic-site"
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: yiting_xiao
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: #
 github_username:  rabbitxyt
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-feed 
+defaults:
+  -
+    scope:
+      path: "image-gallery"
+    values:
+      permalink: /:path/:basename:output_ext
