@@ -12,45 +12,15 @@ pictures:
   - cat04-726x726.jpg
   - cat04-1451x1451.jpg
   thumbnail: cat04-1451x1451.jpg
-- filename: cat06
-  original: cat06-2448x3264.jpg
-  sizes:
-  - cat06-979x1306.jpg
-  - cat06-1958x2611.jpg
-  thumbnail: cat06-1958x2611.jpg
-- filename: cat09
-  original: cat09-960x1280.jpg
-  sizes:
-  - cat09-384x512.jpg
-  - cat09-768x1024.jpg
-  thumbnail: cat09-768x1024.jpg
-- filename: cat10
-  original: cat10-1274x1273.jpg
-  sizes:
-  - cat10-510x509.jpg
-  - cat10-1019x1018.jpg
-  thumbnail: cat10-1019x1018.jpg
-- filename: cat08
-  original: cat08-2218x2218.jpg
-  sizes:
-  - cat08-887x887.jpg
-  - cat08-1774x1774.jpg
-  thumbnail: cat08-1774x1774.jpg
 - filename: cat05
   original: cat05-2448x3264.jpg
   sizes:
   - cat05-979x1306.jpg
   - cat05-1958x2611.jpg
   thumbnail: cat05-1958x2611.jpg
-- filename: cat03
-  original: cat03-2064x2064.jpg
+- filename: cat08
+  original: cat08-2218x2218.jpg
   sizes:
-  - cat03-826x826.jpg
-  - cat03-1651x1651.jpg
-  thumbnail: cat03-1651x1651.jpg
-- filename: cat02
-  original: cat02-2448x2448.jpg
-  sizes:
-  - cat02-979x979.jpg
-  - cat02-1958x1958.jpg
-  thumbnail: cat02-1958x1958.jpg
+  - cat08-887x887.jpg
+  - cat08-1774x1774.jpg
+  thumbnail: cat08-1774x1774.jpg

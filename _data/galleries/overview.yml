@@ -1,5 +1,5 @@
 -
- title: Our cat
+ title: 真・小动物
  directory: cat
  preview:
   filename: cat10
@@ -8,3 +8,13 @@
   - cat10-510x509.jpg
   - cat10-1019x1018.jpg
   thumbnail: cat10-1019x1018.jpg
+-
+ title: 小动物
+ directory: child
+ preview:
+  filename: IMG-05
+  original: IMG-05-1103x1154.JPG
+  sizes:
+  - IMG-05-441x462.JPG
+  - IMG-05-662x692.JPG
+  thumbnail: IMG-05-662x692.JPG

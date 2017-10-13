@@ -1,0 +1,26 @@
+picture_path: child
+pictures:
+- filename: IMG-01
+  original: IMG-01-1585x1042.JPG
+  sizes:
+  - IMG-01-634x417.JPG
+  - IMG-01-951x625.JPG
+  thumbnail: IMG-01-951x625.JPG
+- filename: IMG-03
+  original: IMG-03-1435x1320.JPG
+  sizes:
+  - IMG-03-574x528.JPG
+  - IMG-03-861x792.JPG
+  thumbnail: IMG-03-861x792.JPG
+- filename: IMG-06
+  original: IMG-06-1087x1616.JPG
+  sizes:
+  - IMG-06-435x646.JPG
+  - IMG-06-652x970.JPG
+  thumbnail: IMG-06-652x970.JPG
+- filename: IMG-05
+  original: IMG-05-1103x1154.JPG
+  sizes:
+  - IMG-05-441x462.JPG
+  - IMG-05-662x692.JPG
+  thumbnail: IMG-05-662x692.JPG

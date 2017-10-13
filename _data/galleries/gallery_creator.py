@@ -10,10 +10,10 @@ from os import listdir, rename
 from os.path import isfile, join
 
 # configuration
-output_file = "cat.yml"
+output_file = "child.yml"
 input_file = output_file
-image_path = "cat"
-extensions= ['jpg', 'png']
+image_path = "child"
+extensions= ['JPG', 'png']
 
 # set correct path
 path = join("../../assets/image-gallery/", image_path)
