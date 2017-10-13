@@ -1,19 +1,11 @@
 -
- title: 日历素材 1
- directory: Princess-Calendar
+ title: Our cat
+ directory: cat
  preview:
-  filename: Princess-01
-  original: Princess-01-2400x3000.jpg
+  filename: cat10
+  original: cat10-1274x1273.jpg
   sizes:
-  - Princess-01-1680x2100.jpg
-  thumbnail: Princess-01-thumbnail.jpg
+  - cat10-510x509.jpg
+  - cat10-1019x1018.jpg
+  thumbnail: cat10-1019x1018.jpg
 -
- title: 日历素材 2
- directory: Floral-Calendar
- preview:
-  filename: Floral-01
-  original: Floral-01-2550x3300.jpg
-  sizes:
-  - Floral-01-1275x1650.jpg
-  - Floral-01-2040x2640.jpg
-  thumbnail: Floral-01-1275x1650.jpg

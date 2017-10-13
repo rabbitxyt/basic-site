@@ -10,9 +10,9 @@ from os import listdir, rename
 from os.path import isfile, join
 
 # configuration
-output_file = "Floral-Calendar.yml"
+output_file = "cat.yml"
 input_file = output_file
-image_path = "Floral-Calendar"
+image_path = "cat"
 extensions= ['jpg', 'png']
 
 # set correct path
