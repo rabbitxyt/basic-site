@@ -5,9 +5,9 @@
   filename: cat10
   original: cat10-1274x1273.jpg
   sizes:
-  - cat10-510x509.jpg
   - cat10-1019x1018.jpg
-  thumbnail: cat10-1019x1018.jpg
+  - cat10-480x480.jpg
+  thumbnail: cat10-480x480.jpg
 -
  title: 小动物
  directory: child

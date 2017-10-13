@@ -1,26 +1,26 @@
 picture_path: cat
 pictures:
-- filename: cat07
-  original: cat07-2448x3264.jpg
-  sizes:
-  - cat07-979x1306.jpg
-  - cat07-1958x2611.jpg
-  thumbnail: cat07-1958x2611.jpg
 - filename: cat04
   original: cat04-1814x1814.jpg
   sizes:
-  - cat04-726x726.jpg
   - cat04-1451x1451.jpg
-  thumbnail: cat04-1451x1451.jpg
+  - cat04-480x480.jpg
+  thumbnail: cat04-480x480.jpg
 - filename: cat05
   original: cat05-2448x3264.jpg
   sizes:
-  - cat05-979x1306.jpg
   - cat05-1958x2611.jpg
-  thumbnail: cat05-1958x2611.jpg
+  - cat05-360x480.jpg
+  thumbnail: cat05-360x480.jpg
+- filename: cat07
+  original: cat07-2448x3264.jpg
+  sizes:
+  - cat07-1958x2611.jpg
+  - cat07-360x480.jpg
+  thumbnail: cat07-360x480.jpg
 - filename: cat08
   original: cat08-2218x2218.jpg
   sizes:
-  - cat08-887x887.jpg
   - cat08-1774x1774.jpg
-  thumbnail: cat08-1774x1774.jpg
+  - cat08-480x480.jpg
+  thumbnail: cat08-480x480.jpg
